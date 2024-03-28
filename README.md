@@ -1,0 +1,2 @@
+-Straightforward, categorized audios
+-OT6.5 and Alpha folders are similar but not the same. Some contain older/newer audios.
